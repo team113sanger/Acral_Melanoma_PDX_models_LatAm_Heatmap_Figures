@@ -1,6 +1,6 @@
 # Molecular and functional profiling of Brazilian acral melanoma reveals aberrant genetic landscape and therapeutic vulnerabilities
 
-This repository contains R scripts used to plot figures in the manuscript. Some figures were further edited using the software **Affinity Designer 2**[here](https://affinity.serif.com/en-gb/designer/) in order to get to their final versions used in the manuscript.
+This repository contains R scripts used to plot figures in the manuscript. Some figures were further edited using the software **Affinity Designer 2** [here](https://affinity.serif.com/en-gb/designer/) in order to get to their final versions used in the manuscript.
 
 ## Directory structure
 ```bash
