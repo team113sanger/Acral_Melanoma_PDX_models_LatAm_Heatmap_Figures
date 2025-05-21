@@ -43,6 +43,8 @@ All required R packages can be installed by running:
 install.packages(c("tidyverse", "ComplexHeatmap"))
 ```
 
+If you're interested in [reproducing the R environment using `renv`](https://rstudio.github.io/renv/reference/index.html) please follow the official documentation.
+
 ## Contact
   If you have any questions or comments about this repository, please contact:
   - Antonio Facciolo : (<af31@sanger.ac.uk>)
