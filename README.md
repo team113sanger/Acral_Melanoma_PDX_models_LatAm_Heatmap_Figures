@@ -40,6 +40,10 @@ The following software is required to recreate the figures:
 
 All required R packages can be installed by running:
 ```R
+# Install BiocManager if needed
+if (!require("BiocManager"))
+    install.packages("BiocManager")
+
 install.packages(c("tidyverse", "ComplexHeatmap"))
 ```
 
