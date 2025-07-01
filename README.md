@@ -1,5 +1,7 @@
 # Molecular and functional profiling of Brazilian acral melanoma reveals aberrant genetic landscape and therapeutic vulnerabilities
+This repository is a sub-repository and is included with other repositories in the [Acral Melanoma PDX models from Latin America](https://github.com/team113sanger/Acral_Melanoma_PDX_models_from_Latin_America) parent repository.
 
+## Overview
 This repository contains R scripts used to plot figures in the manuscript. Some figures were further edited using the software **Affinity Designer 2** [here](https://affinity.serif.com/en-gb/designer/) in order to get to their final versions used in the manuscript.
 
 ## Directory structure
@@ -37,15 +39,6 @@ The following software is required to recreate the figures:
 - **R Packages**:
   - tidyverse
   - ComplexHeatmap
-
-All required R packages can be installed by running:
-```R
-# Install BiocManager if needed
-if (!require("BiocManager"))
-    install.packages("BiocManager")
-
-install.packages(c("tidyverse", "ComplexHeatmap"))
-```
 
 If you're interested in [reproducing the R environment using `renv`](https://rstudio.github.io/renv/reference/index.html) please follow the official documentation.
 
